@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    width: 40%;
+    font-size: 20px;
+    text-align: justify;
+    float: left;
+    margin-left: 5%;
+}
+
+form{
+    float: right;
+    margin-right: 20%;
+}
+
+form label{
+    margin-top: 4px;
+}
+
+form input{
+    margin-top: 4px;
+}
